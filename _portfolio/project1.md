@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: ゆうちょ銀行
+subtitle: 日本国
+image: https://i0.wp.com/s1.uphinh.org/2021/04/05/Yucho-bank-logo.jpg
+alt: ゆうちょ銀行
 
 caption:
-  title: Threads
+  title: ゆうちょ銀行
   subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: https://i0.wp.com/s1.uphinh.org/2021/04/05/2021_04_03_14_15_IMG_1276.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+ご利用いただきありがとうございます。お支払い前にまず私を連絡してください。フェイスブックやインスタグラム等でメッセージしてください。お支払いの後で「ご利用明細」の写真を撮って送ってください。
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- 名前: ズン⋆ティエン⋆ダット
+- 場所: 島根県
+- 国籍: ベトナム
 
