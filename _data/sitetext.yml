@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     people:
       - name: "Black Yuki"
         role: "Dương Tiến Đạt"
-        image: assets/img/team/2.png
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com/DngTint10
             icon: fab fa-twitter
