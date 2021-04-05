@@ -13,13 +13,15 @@ alt: momo
 ---
 
 Thanh toán qua Banking:
-{:.list-inline} 
+{:.list-inline}
 - Ngân Hàng Maritime Bank (MSB).
 - Tên chủ tài khoản: Dương Tiến Đạt.
-- Số tài khoản: 03501014986926.
-- Số điện thoại: 0366822460.
-___________________________________________________________________________________________
+- Số tài khoản: 03501014986926
+- Số điện thoại: 0366822460
 
+
+
+____________________________________________________________________________________________
 
 Thanh toán bằng thẻ cào Card: Liên hệ trực tiếp qua Facebook, Instagram, Twitter, Discord.
 
