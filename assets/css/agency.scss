@@ -2,8 +2,8 @@
 ---
 @charset "utf-8";
 // Core variables and mixins
-@import "base/variables.scss";
-@import "base/mixins.scss";
+@import "_sass/base/variables.scss";
+@import "_sass/base/mixins.scss";
 
 // Custom colors
 $primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
@@ -15,18 +15,18 @@ $header-image: "{{ site.data.style.header-image }}";
 $contact-image: "{{ site.data.style.contact-image }}";
 
 // Global CSS
-@import "base/page.scss";
+@import "_sassbase/page.scss";
 
 // Components
-@import "components/buttons.scss";
-@import "components/navbar.scss";
-@import "components/client-scroll.scss";
+@import "_sass/components/buttons.scss";
+@import "_sass/components/navbar.scss";
+@import "_sass/components/client-scroll.scss";
 
 // Layout
-@import "layout/masthead.scss";
-@import "layout/services.scss";
-@import "layout/portfolio.scss";
-@import "layout/timeline.scss";
-@import "layout/team.scss";
-@import "layout/contact.scss";
-@import "layout/footer.scss";
+@import "_sass/layout/masthead.scss";
+@import "_sass/layout/services.scss";
+@import "_sass/layout/portfolio.scss";
+@import "_sass/layout/timeline.scss";
+@import "_sass/layout/team.scss";
+@import "_sass/layout/contact.scss";
+@import "_sass/layout/footer.scss";
