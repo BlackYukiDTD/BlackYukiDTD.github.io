@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "Facebook"
         url: https://www.facebook.com/duongtien.dat.56
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     people:
       - name: "Black Yuki"
         role: "Dương Tiến Đạt"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/2.png
         social:
           - url: https://twitter.com/DngTint10
             icon: fab fa-twitter
