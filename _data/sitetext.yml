@@ -89,7 +89,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/themeforest.jpg
       - title: "Facebook Group"
         url: https://www.facebook.com/groups/ungdunggameiOS/
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/creative-market.png
 
   team:
     title: "About Us"
