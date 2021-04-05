@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Quantumult X & Shadowrocket"
-        desc: "IAP Server is the intermediary VPN channel between your iPhone and the Apple server. Through Group Server, you can use features such as: blocking updates, blocking ads on safari and on the app, especially activating in-app purchases in the app."
+        desc: "Configuration installation instructions: [Tutorial]()"
         icon: fas fa-tools #find more at https://fontawesome.com/icons
       - title: "Hack in-Game"
         desc: "Hack in-game purchases in the game. Includes free and paid services."
         icon: fas fa-laptop
       - title: "Thuê Apple ID"
-        desc: "Tài khoản chứa các game/app trả phí như Dead Cells, Minecraft, Shadowrocket, Pascal's Wanger, Moonlighter, ..."
+        desc: "Tham gia Discord để tham khảo chi tiết cách thuê tài khoản. Vào Discord tại [linh này](https://discord.gg/bn7T3NkkZ7)"
         icon: fab fa-apple
 
   portfolio:
@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Use VPN Connection"
         year: "Quantumult X & Shadowrocket"
-        desc: "Configuration installation instructions: [Tutorial]()"
+        desc: "IAP Server is the intermediary VPN channel between your iPhone and the Apple server. Through Group Server, you can use features such as: blocking updates, blocking ads on safari and on the app, especially activating in-app purchases in the app."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Paid Item"
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Only Vietnam Supported"
         year: "Thuê tài khoản Apple ID"
-        desc: "Tham gia Discord để tham khảo chi tiết cách thuê tài khoản. Vào Discord tại [linh này](https://discord.gg/bn7T3NkkZ7)"
+        desc: "Tài khoản chứa các game/app trả phí như Dead Cells, Minecraft, Shadowrocket, Pascal's Wanger, Moonlighter, ..."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
