@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Thanh Toán
   subtitle: Only Vietnam
-  thumbnail: https://image.freepik.com/free-vector/internet-banking_9206-830.jpg
+  thumbnail: https://i0.wp.com/s1.uphinh.org/2021/04/05/5346_Ez1408_Dvlpment_strategy_of_VNbanking_sector2_2025.jpg
   
 #what displays when the item is clicked:
 title: Thanh Toán
