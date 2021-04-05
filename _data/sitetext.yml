@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
+    horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Facebook"
         url: https://www.facebook.com/duongtien.dat.56
@@ -214,7 +214,7 @@ es: &DEFAULT_ES
   clients:
     section: clientes
     max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
+    horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
