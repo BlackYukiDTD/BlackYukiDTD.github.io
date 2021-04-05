@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "Facebook"
         url: https://www.facebook.com/duongtien.dat.56
@@ -87,8 +87,8 @@ en: &DEFAULT_EN
       - title: "Twitter"
         url: https://twitter.com/DngTint10
         logo: assets/img/clients/themeforest.png
-      - title: "Facebook Group"
-        url: https://www.facebook.com/groups/ungdunggameiOS/
+      - title: "Discord Group"
+        url: https://discord.com/bn7T3NkkZ7
         logo: assets/img/clients/creative-market.png
 
   team:
