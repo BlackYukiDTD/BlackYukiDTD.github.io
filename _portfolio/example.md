@@ -18,13 +18,13 @@ Thanh toán qua Banking:
 - Tên chủ tài khoản: Dương Tiến Đạt.
 - Số tài khoản: 03501014986926.
 - Số điện thoại: 0366822460.
-
+___________________________________________________________________________________________
 
 
 Thanh toán bằng thẻ cào Card: Liên hệ trực tiếp qua Facebook, Instagram, Twitter, Discord.
 
 
-
+____________________________________________________________________________________________
 Thanh toán chuyển khoản qua Momo hay Banking, ghi rõ nội dung chuyển khoản: "Tên Game + Tài khoản liên kết game của bạn".
 Inbox cho mình qua 1 trong các liên hệ: Facebook, Instagram, Twitter, Discord. Nội dung:
 {:.list-inline} 
