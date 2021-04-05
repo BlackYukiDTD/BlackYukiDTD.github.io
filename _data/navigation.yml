@@ -13,15 +13,15 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
-      section: portfolio
+    - title: "Payment Guide"
+      section: paymentguide
+    - title: "Details"
+      section: details
     - title: "About"
-      section: timeline
-    - title: "Team"
-      section: team
+      section: about
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
+    - title: "Tutorial"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
@@ -32,23 +32,23 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Vietnam
 # -------
-es: &DEFAULT_ES
+vn: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
+    - title: "Dịch Vụ"
+      section: dichvu
+    - title: "Thanh Toán"
+      section: thanhtoan
+    - title: "Chi Tiết"
+      section: chitiet
+    - title: "Thông Tin"
+      section: thongtin
+    - title: "Liên Hệ"
+      section: lienhe
+    - title: "Hướng dẫn cài đặt"
       url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
+vn-ES:
   <<: *DEFAULT_ES
-es-CO:
+vn-CO:
   <<: *DEFAULT_ES
