@@ -80,10 +80,10 @@ en: &DEFAULT_EN
     list:
       - title: "Facebook"
         url: https://www.facebook.com/duongtien.dat.56
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/envato.png
       - title: "Instagram"
         url: https://www.instagram.com/dtd.vn.ios
-        logo: assets/img/clients/designmodo.jpg
+        logo: assets/img/clients/designmodo.png
       - title: "Twitter"
         url: https://twitter.com/DngTint10
         logo: assets/img/clients/themeforest.jpg
@@ -218,10 +218,10 @@ es: &DEFAULT_ES
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/envato.png
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        logo: assets/img/clients/designmodo.png
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
