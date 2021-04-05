@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Quantumult X & Shadowrocket"
-        desc: "Configuration installation instructions: [Tutorial]()"
+        desc: "Configuration installation instructions: [Tutorial](). List apps support: [List App]()"
         icon: fas fa-tools #find more at https://fontawesome.com/icons
       - title: "Hack in-Game"
-        desc: "Hack in-game purchases in the game. Includes free and paid services."
+        desc: "Hack in-game purchases in the game. Includes free and paid services. Detailed game list information: [List Game]()"
         icon: fas fa-laptop
       - title: "Thuê Apple ID"
         desc: "Tham gia Discord để tham khảo chi tiết cách thuê tài khoản. Vào Discord tại [linh này](https://discord.gg/bn7T3NkkZ7)"
