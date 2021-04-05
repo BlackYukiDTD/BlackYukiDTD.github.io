@@ -25,14 +25,14 @@ en: &DEFAULT_EN
         desc: "IAP Server is the intermediary VPN channel between your iPhone and the Apple server. Through Group Server, you can use features such as: blocking updates, blocking ads on safari and on the app, especially activating in-app purchases in the app."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Hack in-Game"
-        desc: "Hack in-game purchases in the game. Paid (Pay to hack): . Free (No need to pay): support games installed with iMazing files."
+        desc: "Hack in-game purchases in the game. Includes free and paid services."
         icon: fas fa-laptop
       - title: "Thuê Apple ID"
         desc: "Tài khoản chứa các game/app trả phí như Dead Cells, Minecraft, Shadowrocket, Pascal's Wanger, Moonlighter, ..."
         icon: fab fa-markdown
 
   portfolio:
-    title: "Thanh Toán"
+    title: "Payment Guide"
     text: "Choose a form of payment."
     section: thanhtoan
     closebutton: "Close"
@@ -44,24 +44,24 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Quantumult X & Shadowrocket"
-        year: "VPN"
+      - title: "Use VPN Connection"
+        year: "Quantumult X & Shadowrocket"
         desc: "Configuration installation instructions: [Tutorial]()"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Hack in-Game"
-        year: "Paid Item"
+      - title: "Paid Item"
+        year: "Hack in-Game"
         desc: "Supported games are saved to Apple ID, Gmail, Facebook, Gamecenter accounts."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Hack in-Game"
-        year: "Free Item"
+      - title: "Free Item"
+        year: "Hack in-Game"
         desc: "Support games installed with iMazing files."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Thuê Apple ID"
-        year: "Only Vietnam Supported"
-        desc: "Thuê tài khoản theo tháng."
+      - title: "Only Vietnam Supported"
+        year: "Thuê tài khoản Apple ID"
+        desc: "Tham gia Discord để tham khảo chi tiết cách thuê tài khoản. Vào Discord tại [linh này](https://discord.gg/bn7T3NkkZ7)"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -97,16 +97,6 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: about
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Black Yuki"
         role: "Dương Tiến Đạt"
         image: assets/img/team/2.jpg
@@ -116,16 +106,6 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/duongtien.dat.56
             icon: fab fa-facebook-f
           - url: https://www.instagram.com/dtd.vn.ios
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
   contact:
