@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to us!
-    text: iOS Supported - Hack in-app, in-game, rent apple id.
+    text: iOS Supported.
     button: Details
     buttonlink: "#services"
 
@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Quantumult X & Shadowrocket"
         desc: "IAP Server is the intermediary VPN channel between your iPhone and the Apple server. Through Group Server, you can use features such as: blocking updates, blocking ads on safari and on the app, especially activating in-app purchases in the app."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-tools #find more at https://fontawesome.com/icons
       - title: "Hack in-Game"
         desc: "Hack in-game purchases in the game. Includes free and paid services."
         icon: fas fa-laptop
       - title: "Thuê Apple ID"
         desc: "Tài khoản chứa các game/app trả phí như Dead Cells, Minecraft, Shadowrocket, Pascal's Wanger, Moonlighter, ..."
-        icon: fab fa-markdown
+        icon: fab fa-apple
 
   portfolio:
     title: "Payment Guide"
@@ -104,7 +104,7 @@ en: &DEFAULT_EN
           - url: https://twitter.com/DngTint10
             icon: fab fa-twitter
           - url: https://www.facebook.com/duongtien.dat.56
-            icon: fab fa-facebook-f
+            icon: fab fa-facebook
           - url: https://www.instagram.com/dtd.vn.ios
             icon: fab fa-linkedin-in
 
@@ -126,10 +126,10 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/DngTint10
         icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
+      - url: https://www.facebook.com/duongtien.dat.56
+        icon: "fab fa-facebook"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
