@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Payment Guide"
     text: "Choose a form of payment."
-    section: thanhtoan
+    section: paymentguide
     closebutton: "Close"
 
   timeline:
