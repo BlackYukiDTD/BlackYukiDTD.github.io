@@ -86,7 +86,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/designmodo.png
       - title: "Twitter"
         url: https://twitter.com/DngTint10
-        logo: assets/img/clients/themeforest.jpg
+        logo: assets/img/clients/themeforest.png
       - title: "Facebook Group"
         url: https://www.facebook.com/groups/ungdunggameiOS/
         logo: assets/img/clients/creative-market.png
@@ -224,10 +224,10 @@ es: &DEFAULT_ES
         logo: assets/img/clients/designmodo.png
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        logo: assets/img/clients/themeforest.png
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/creative-market.png
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
