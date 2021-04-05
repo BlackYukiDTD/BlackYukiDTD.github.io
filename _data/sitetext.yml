@@ -94,7 +94,7 @@ en: &DEFAULT_EN
   team:
     title: "About Us"
     text: "Photographer, Engineer and Programmer"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: I come from Hanoi, Vietnam. Currently living and working in Japan. Hobbies: Reading, listening to English - Japanese - Vietnamese music. Enjoys traveling, has a passion for photography and video recording.
     section: about
     people:
       - name: "Vietnam"
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Contact me"
+    text: "If you cannot contact me by any of the above methods, please leave a message below."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
