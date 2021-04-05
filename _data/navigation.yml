@@ -48,7 +48,7 @@ vn: &DEFAULT_ES
       section: lienhe
     - title: "Hướng dẫn cài đặt"
       url: https://github.com/raviriley/agency-jekyll-theme/
-vn-ES:
+vn-VN:
   <<: *DEFAULT_ES
-vn-CO:
+vn-VI:
   <<: *DEFAULT_ES
