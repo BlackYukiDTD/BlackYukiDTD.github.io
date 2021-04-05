@@ -97,6 +97,16 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: about
     people:
+      - name: "Vietnam"
+        role: "ベトナム"
+        image: assets/img/team/vn.png
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       - name: "Black Yuki"
         role: "Dương Tiến Đạt"
         image: assets/img/team/2.png
@@ -106,6 +116,16 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/duongtien.dat.56
             icon: fab fa-facebook
           - url: https://www.instagram.com/dtd.vn.ios
+            icon: fab fa-linkedin-in
+      - name: "Hanoi"
+        role: "ハノイ"
+        image: assets/img/team/hanoi.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
   contact:
