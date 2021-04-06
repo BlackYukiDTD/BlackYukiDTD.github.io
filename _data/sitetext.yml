@@ -171,38 +171,44 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Vietnam
 # -------
-es: &DEFAULT_ES
+vn: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
+    title: Chào mừng đến với chúng tôi
     text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
+    button: Chi tiết
+    buttonlink: "#dichvu"
 
   services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
+    title: "Dịch Vụ"
+    text: "Chất lượng - Uy tín - Trọn đời"
+    section: dichvu
     list:
-      - title: "Comercio Electrónico"
+      - title: "Quantumult X & Shadowrocket"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
+      - title: "Hack in-Game"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Thuê tài khoản Apple ID"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
+        
+  tutorial:
+    title: "Hướng Dẫn Cài Đặt"
+    text: "Installation Instructions"
+    section: tutorial
+    closebutton: "Close"
 
   portfolio:
-    title: "Portafolio"
+    title: "Hướng Dẫn Thanh Toán"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Cronología"
+    title: "Thông Tin Chi Tiết"
     text: "Lorem ipsum timeline"
     section: cronologia
     # left is the default
@@ -233,7 +239,7 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
+    title: "Thông Tin Chi Tiết"
     text: "nuestra historia"
     section: nosotros
 
@@ -242,28 +248,28 @@ es: &DEFAULT_ES
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Facebook"
+        url: https://www.facebook.com/duongtien.dat.56
         logo: assets/img/clients/envato.png
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Instagram"
+        url: https://www.instagram.com/dtd.vn.ios
         logo: assets/img/clients/designmodo.png
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Twitter"
+        url: https://twitter.com/DngTint10
         logo: assets/img/clients/themeforest.png
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Discord Group"
+        url: https://discord.gg/bn7T3NkkZ7
         logo: assets/img/clients/creative-market.png
 
   team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
+    title: "Thông Tin Liên Hệ"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Việt Nam"
+        role: "Vietnam"
+        image: assets/img/team/vn.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -271,19 +277,19 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Black Yuki"
+        role: "Dương Tiến Đạt"
         image: assets/img/team/2.png
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/DngTint10
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.facebook.com/duongtien.dat.56
+            icon: fab fa-facebook
+          - url: https://www.instagram.com/dtd.vn.ios
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Hà Nội"
+        role: "Hanoi"
+        image: assets/img/team/hanoi.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -293,9 +299,9 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contacto
+    title: "Liên hệ"
+    text: "Nếu bạn không thể liên hệ với tôi bằng bất kỳ phương pháp nào ở trên, vui lòng để lại lời nhắn bên dưới."
+    section: lienhe
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
     email: "Correo Electrónico*"
@@ -320,7 +326,7 @@ es: &DEFAULT_ES
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-es-ES:
+vn-VN:
   <<: *DEFAULT_ES
-es-CO:
+vn-VI:
   <<: *DEFAULT_ES
