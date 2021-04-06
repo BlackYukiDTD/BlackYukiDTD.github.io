@@ -1,5 +1,5 @@
 <!-- tutorial Modals -->
-{% for project in site.tutorial %}
+{% for trailer in site.tutorial %}
   <div class="tutorial-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
@@ -12,14 +12,14 @@
           <div class="row">
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
-                <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">{{ project.title }}</h2>
-                <p class="item-intro text-muted">{{ project.subtitle }}</p>
-                <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
-				<p>{{ project.content }}</p>		
+                <!-- trailer Details Go Here -->
+                <h2 class="text-uppercase">{{ trailer.title }}</h2>
+                <p class="item-intro text-muted">{{ trailer.subtitle }}</p>
+                <img class="img-fluid d-block mx-auto" src="{{ trailer.image }}" alt="{{ trailer.alt }}">
+				<p>{{ trailer.content }}</p>		
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  {{ site.data.sitetext[site.locale].tutorial.closebutton | default: "Close Project" }}</button>
+                  {{ site.data.sitetext[site.locale].tutorial.closebutton | default: "Close trailer" }}</button>
               </div>
             </div>
           </div>
