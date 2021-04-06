@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
+    - title: "Tutorial"
+      url: tutorial
     - title: "Payment Guide"
       section: paymentguide
     - title: "Details"
@@ -21,8 +23,6 @@ en: &DEFAULT_EN
       section: about
     - title: "Contact"
       section: contact
-    - title: "Tutorial"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -38,6 +38,8 @@ vn: &DEFAULT_ES
   nav:
     - title: "Dịch Vụ"
       section: dichvu
+    - title: "Hướng dẫn cài đặt"
+      url: huongdancaidat
     - title: "Thanh Toán"
       section: thanhtoan
     - title: "Chi Tiết"
@@ -46,8 +48,6 @@ vn: &DEFAULT_ES
       section: thongtin
     - title: "Liên Hệ"
       section: lienhe
-    - title: "Hướng dẫn cài đặt"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 vn-VN:
   <<: *DEFAULT_ES
 vn-VI:
