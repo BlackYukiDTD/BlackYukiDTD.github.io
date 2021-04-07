@@ -5,7 +5,7 @@
 [![template button](https://img.shields.io/badge/-Generate%20theme%20from%20template-brightgreen)](https://github.com/raviriley/agency-jekyll-theme-starter/generate)
 [![Featured on Jekyll-Themes.com](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/agency-jekyll-theme/)
 
-![screenshot](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/BlackYukiDTD/BlackYukiDTD.github.io/main/screenshot.png)
 
 >  :warning:  **Notice to those using legacy Formspree contact forms:** :warning: <br>
 Email-based forms are being [phased out](https://help.formspree.io/hc/en-us/articles/360056076314) by Formspree. [#11](https://github.com/raviriley/agency-jekyll-theme/pull/11) updated this theme to use the [new Formspree structure](https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam). Click [here](https://help.formspree.io/hc/en-us/articles/360056076314) for instructions on updating your site's form.
