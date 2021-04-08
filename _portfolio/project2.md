@@ -11,8 +11,9 @@ caption:
 ---
 When making a transfer, specify: "Game name + account name associated with the game". Then, send me a message via one of the contacts: Facebook, Instagram, Twitter, Discord. With message content: Remittance bill + Game Name (link game) + The account includes your ID and Pass associated with the Game.
 
+Account number
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Name: DUONG TIEN DAT (ズン⋆ティエン⋆ダット)
+- Email: duongtiendat195nb@icloud.com
+- Phone: 070-****-**38
 
