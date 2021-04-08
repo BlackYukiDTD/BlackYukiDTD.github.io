@@ -1,7 +1,7 @@
 ---
 title: PayPal
 subtitle: International Payments
-image: https://raw.githubusercontent.com/BlackYukiDTD/BlackYukiDTD.github.io/main/assets/img/portfolio/paypal.jpg
+image: https://raw.githubusercontent.com/BlackYukiDTD/BlackYukiDTD.github.io/main/assets/img/portfolio/PayPal-1.jpg
 alt: Paypal
 
 caption:
