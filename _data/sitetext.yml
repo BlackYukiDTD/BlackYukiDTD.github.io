@@ -196,16 +196,16 @@ vn: &DEFAULT_ES
         icon: fab fa-markdown
         
   tutorial:
-    title: "Hướng Dẫn Cài Đặt"
-    text: "Installation Instructions"
-    section: tutorial
-    closebutton: "Close"
+    title: "Hướng Dẫn"
+    text: "Lựa chọn cài đặt bạn mong muốn"
+    section: huongdan
+    closebutton: "Đóng"
 
   portfolio:
     title: "Hướng Dẫn Thanh Toán"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
+    text: "Lựa chọn cách thanh toán."
+    section: thanhtoan
+    closebutton: "Đóng"
 
   timeline:
     title: "Thông Tin Chi Tiết"
