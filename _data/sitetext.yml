@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Tham gia Discord để tham khảo chi tiết cách thuê tài khoản. Vào Discord tại [linh này](https://discord.gg/bn7T3NkkZ7)"
         icon: fab fa-apple
         
-  portfolios:
+  tutorial:
     title: "Tutorial"
     text: "Installation Instructions"
     section: tutorial
@@ -195,7 +195,7 @@ vn: &DEFAULT_ES
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
         
-  portfolios:
+  tutorial:
     title: "Hướng Dẫn"
     text: "Lựa chọn cài đặt bạn mong muốn"
     section: huongdan
