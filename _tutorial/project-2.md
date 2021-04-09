@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Thanh Toán
-  subtitle: Only Vietnam
+  title: In-Game Paid
+  subtitle: Save to the cloud of the account
   thumbnail: https://i0.wp.com/s1.uphinh.org/2021/04/05/5346_Ez1408_Dvlpment_strategy_of_VNbanking_sector2_2025.jpg
   
 #what displays when the item is clicked:
-title: Thanh Toán
-subtitle: Thanh toán qua Momo, Banking hoặc Thẻ cào Card
+title: In-Game Paid
+subtitle: Payment by method
 image: https://i0.wp.com/s1.uphinh.org/2021/04/05/momo.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: momo
 
