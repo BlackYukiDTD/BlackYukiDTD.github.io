@@ -14,6 +14,5 @@ When making a transfer, specify: "Game name + account name associated with the g
 Account number
 {:.list-inline}
 - Name: DUONG TIEN DAT (ズン⋆ティエン⋆ダット)
-- Email: duongtiendat195nb@icloud.com
-- Phone: 070-****-**38
+- Paypal: https://paypal.me/blackyuki
 
