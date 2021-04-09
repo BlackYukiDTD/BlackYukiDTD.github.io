@@ -1,7 +1,7 @@
 # Black Yuki | [Website](https://blackyukidtd.github.io/)
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/raviriley)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/blackyuki)
 [![template button](https://img.shields.io/badge/-Generate%20theme%20from%20template-brightgreen)](https://github.com/raviriley/agency-jekyll-theme-starter/generate)
 [![Featured on Jekyll-Themes.com](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/agency-jekyll-theme/)
 
@@ -43,7 +43,7 @@ The Jekyll structure of this theme includes:
 - `style.yml` enables fully customizable colors, background images, and other style-related things
 
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
+**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/blackyuki) to continue developing and maintaining it.**
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
 
