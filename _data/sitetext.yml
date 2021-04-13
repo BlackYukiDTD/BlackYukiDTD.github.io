@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   tutorial:
     title: "Payment Guide"
     text: "Choose a form of payment."
-    section: paymentguide
+    section: tutorial
     closebutton: "Close"
 
   timeline:
