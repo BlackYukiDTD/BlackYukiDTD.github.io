@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
+    - title: "Tutorial"
+      section: tutorial
     - title: "Payment Guide"
       section: paymentguide
     - title: "Details"
@@ -36,6 +38,8 @@ vn: &DEFAULT_ES
   nav:
     - title: "Dịch Vụ"
       section: dichvu
+    - title: "Hướng dẫn"
+      section: huongdan
     - title: "Thanh Toán"
       section: thanhtoan
     - title: "Chi Tiết"
