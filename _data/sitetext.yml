@@ -32,12 +32,6 @@ en: &DEFAULT_EN
         icon: fab fa-apple
         
   tutorial:
-    title: "Tutorial"
-    text: "Choose a form of payment."
-    section: tutorial
-    closebutton: "Close"
-        
-  portfolio:
     title: "Payment Guide"
     text: "Choose a form of payment."
     section: paymentguide
@@ -196,16 +190,10 @@ vn: &DEFAULT_ES
         icon: fab fa-markdown
         
   tutorial:
-    title: "Hướng Dẫn"
-    text: "Choose a form of payment."
-    section: huongdan
-    closebutton: "Close"
-
-  portfolio:
-    title: "Hướng Dẫn Thanh Toán"
-    text: "Lựa chọn cách thanh toán."
+    title: "Thanh Toán"
+    text: "Lựa Chọn Hình Thức Thanh Toán"
     section: thanhtoan
-    closebutton: "Đóng"
+    closebutton: "Close"
 
   timeline:
     title: "Thông Tin Chi Tiết"
