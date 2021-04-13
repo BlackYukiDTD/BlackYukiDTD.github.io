@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   tutorial:
     title: "Payment Guide"
     text: "Choose a form of payment."
-    section: tutorial
+    section: portfolio
     closebutton: "Close"
 
   timeline:
@@ -192,7 +192,7 @@ vn: &DEFAULT_ES
   tutorial:
     title: "Thanh Toán"
     text: "Lựa Chọn Hình Thức Thanh Toán"
-    section: thanhtoan
+    section: portfolio
     closebutton: "Close"
 
   timeline:
