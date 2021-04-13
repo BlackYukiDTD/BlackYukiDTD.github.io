@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Services"
       section: services
     - title: "Payment Guide"
-      section: paymentguide
+      section: tutorial
     - title: "Details"
       section: details
     - title: "About"
