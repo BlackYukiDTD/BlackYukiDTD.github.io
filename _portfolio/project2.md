@@ -14,5 +14,5 @@ When making a transfer, specify: "Game name + account name associated with the g
 Account number
 {:.list-inline}
 - Name: DUONG TIEN DAT (ズン⋆ティエン⋆ダット)
-- Paypal: https://paypal.me/blackyuki
+- Paypal: [Payment Here](https://paypal.me/blackyuki)
 
