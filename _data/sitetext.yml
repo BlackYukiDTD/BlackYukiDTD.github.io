@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Tham gia Discord để tham khảo chi tiết cách thuê tài khoản. Vào Discord tại [linh này](https://discord.gg/bn7T3NkkZ7)"
         icon: fab fa-apple
         
-  tutorial:
+  portfolio:
     title: "Payment Guide"
     text: "Choose a form of payment."
     section: portfolio
