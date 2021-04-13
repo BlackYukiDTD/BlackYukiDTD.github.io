@@ -7,7 +7,7 @@ alt: ゆうちょ銀行
 caption:
   title: ゆうちょ銀行
   subtitle: 日本国
-  thumbnail: https://i0.wp.com/s1.uphinh.org/2021/04/05/Yucho-bank-logo.jpg
+  thumbnail: https://i0.wp.com/s1.uphinh.org/2021/04/13/9b327438.th.jpg
 ---
 ご利用いただきありがとうございます。お支払い前にまず私を連絡してください。フェイスブックやインスタグラム等でメッセージしてください。お支払いの後で「ご利用明細」の写真を撮って送ってください。
 
