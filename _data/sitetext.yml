@@ -34,13 +34,13 @@ en: &DEFAULT_EN
   portfolio:
     title: "Payment Guide"
     text: "Choose a form of payment."
-    section: portfolio
+    section: paymentguide
     closebutton: "Close"
 
   timeline:
     title: "Details"
     text: "Guide"
-    section: timeline
+    section: details
     # left is the default
     #start_align: "left"
     events:
@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Thank <br> for you <br> support!"
 
   about:
-    title: "Details"
-    text: "Guide"
-    section: about
+    title: "About"
+    text: "Social Network"
+    section: social
 
   clients:
     section: clients
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
     title: "About Us"
     text: "Photographer, Engineer and Programmer"
     subtext: I come from Hanoi, Vietnam. Currently living and working in Japan. Hobbies is Reading, listening to English-Japanese-Vietnamese music. Enjoys traveling, has a passion for photography and video recording.
-    section: team
+    section: about
     people:
       - name: "Vietnam"
         role: "ベトナム"
