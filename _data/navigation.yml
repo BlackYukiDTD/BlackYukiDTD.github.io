@@ -14,11 +14,11 @@ en: &DEFAULT_EN
     - title: "Services"
       section: services
     - title: "Payment Guide"
-      section: portfolio
+      section: paymentguide
     - title: "Details"
-      section: timeline
+      section: details
     - title: "About"
-      section: team
+      section: about
     - title: "Contact"
       section: contact
 en-US:
