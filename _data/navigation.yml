@@ -16,9 +16,9 @@ en: &DEFAULT_EN
     - title: "Payment Guide"
       section: portfolio
     - title: "Details"
-      section: details
+      section: timeline
     - title: "About"
-      section: about
+      section: team
     - title: "Contact"
       section: contact
 en-US:
