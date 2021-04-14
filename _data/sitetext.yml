@@ -34,13 +34,13 @@ en: &DEFAULT_EN
   portfolio:
     title: "Payment Guide"
     text: "Choose a form of payment."
-    section: paymentguide
+    section: portfolio
     closebutton: "Close"
 
   timeline:
     title: "Details"
     text: "Guide"
-    section: timeline
+    section: details
     # left is the default
     #start_align: "left"
     events:
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     text: "Social Network"
-    section: details
+    section: social
 
   clients:
     section: clients
