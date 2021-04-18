@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Payment Guide"
-      url: https://blackyukidtd.github.io/tutorial-vpn/#portfolio
+      url: https://blackyukidtd.github.io/payment/#portfolio
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -47,7 +47,7 @@ vn: &DEFAULT_ES
     - title: "Liên Hệ"
       section: lienhe
     - title: "Thanh Toán"
-      url: https://blackyukidtd.github.io/tutorial-vpn/#portfolio
+      url: https://blackyukidtd.github.io/payment/#portfolio
 vn-VN:
   <<: *DEFAULT_ES
 vn-VI:
