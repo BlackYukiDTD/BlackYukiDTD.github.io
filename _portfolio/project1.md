@@ -18,7 +18,7 @@ EN:
 - Step 1: Refer to [game list] (). Select the game you want to hack data.
 - Step 2: Choose a payment method and carefully read the payment instructions.
 - Step 3: Contact me through one of the channels Facebook, Discord, Instagram ....
-- Bước 4: Wait for me to receive and handle.
+- Bước 4: Delete game> reload game. Wait for me to process and respond. (Do not enter the game until completion notification)
 - Bước 5: Completion notice! Done!
 
 
@@ -27,5 +27,5 @@ VN:
 - Bước 1: Tham khảo [list game](). Chọn game muốn hack data.
 - Bước 2: Chọn phương thức thanh toán [tại đây](/payment/#portfolio) và đọc kỹ hướng dẫn thanh toán.
 - Bước 3: Liên hệ với mình qua 1 trong các kênh Facebook, Discord, Instagram....
-- Bước 4: Chờ mình tiếp nhận và xử lý.
+- Bước 4: Xoá game > tải lại game. Chờ mình xử lý và phản hồi. (Không được vào game cho tới lúc nhận thông báo hoàn thành)
 - Bước 5: Thông báo hoàn thành! Done!
