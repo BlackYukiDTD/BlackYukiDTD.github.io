@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fab fa-apple
         
   portfolio:
-    title: "Payment Guide"
-    text: "Choose a form of payment."
+    title: "Tutorial & Events"
+    text: "Choose for more details."
     section: portfolio
     closebutton: "Close"
 
@@ -190,7 +190,7 @@ vn: &DEFAULT_ES
         icon: fab fa-markdown
         
   tutorial:
-    title: "Thanh Toán"
+    title: "Hướng Dẫn"
     text: "Lựa Chọn Hình Thức Thanh Toán"
     section: portfolio
     closebutton: "Close"
