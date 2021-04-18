@@ -11,6 +11,7 @@ caption:
 ---
 **INTRODUCTION**
 - IAP Server is the intermediary VPN channel between your iPhone and the Apple server. Through Group Server, you can use features such as: blocking updates, blocking ads on safari and on the app, especially activating in-app purchases in the app.
+- List App Supported: [Here](/listapp)
 
 _______________________________________________________________________________________________________________
 **SHADOWROCKET**
