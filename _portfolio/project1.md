@@ -25,7 +25,7 @@ EN:
 ____________________________________________________________________________________________
 VN:
 - Bước 1: Tham khảo [list game](). Chọn game muốn hack data.
-- Bước 2: Chọn phương thức thanh toán và đọc kỹ hướng dẫn thanh toán.
+- Bước 2: Chọn phương thức thanh toán [tại đây](/payment/#portfolio) và đọc kỹ hướng dẫn thanh toán.
 - Bước 3: Liên hệ với mình qua 1 trong các kênh Facebook, Discord, Instagram....
 - Bước 4: Chờ mình tiếp nhận và xử lý.
 - Bước 5: Thông báo hoàn thành! Done!
