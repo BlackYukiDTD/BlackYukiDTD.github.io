@@ -15,7 +15,7 @@ alt: tutorial
 **TUTORIALS**
 
 EN:
-- Step 1: Refer to [game list] (/listgamepaid). Select the game you want to hack data.
+- Step 1: Refer to [game list](/listgamepaid). Select the game you want to hack data.
 - Step 2: Choose a payment method and carefully read the payment instructions.
 - Step 3: Contact me through one of the channels Facebook, Discord, Instagram ....
 - Bước 4: Delete game> reload game. Wait for me to process and respond. (Do not enter the game until completion notification)
