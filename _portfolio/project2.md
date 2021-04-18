@@ -10,7 +10,7 @@ caption:
   thumbnail: https://i0.wp.com/s1.uphinh.org/2021/04/18/mv.png
 ---
 **TUTORIAL**
-- Step 1: Download iMazing. (You can download imazing on the homepage: https://imazing.com/)
+- Step 1: Download iMazing. (You can download imazing on the homepage: [Here](https://imazing.com/))
 - Step 2: Refer to [game list] (). Select the game you want to hack data.
 - Step 3: Download iMazing file in the post
 - Step 4: Watch the instructional video:
