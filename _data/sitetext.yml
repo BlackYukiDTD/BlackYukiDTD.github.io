@@ -38,9 +38,9 @@ en: &DEFAULT_EN
     closebutton: "Close"
 
   timeline:
-    title: "Details"
+    title: "Introduce"
     text: "Guide"
-    section: details
+    section: introduce
     # left is the default
     #start_align: "left"
     events:
