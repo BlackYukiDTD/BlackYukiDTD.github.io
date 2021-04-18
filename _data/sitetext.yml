@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to us!
-    text: iOS Supported.
+    text: Support Game & App iOS.
     button: Details
     buttonlink: "#services"
 
