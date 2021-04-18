@@ -21,6 +21,8 @@ en: &DEFAULT_EN
       section: about
     - title: "Contact"
       section: contact
+    - title: "Tutorial"
+      url: https://blackyukidtd.github.io/tutorial-vpn/#portfolio
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -44,6 +46,8 @@ vn: &DEFAULT_ES
       section: thongtin
     - title: "Liên Hệ"
       section: lienhe
+    - title: "Hướng Dẫn"
+      url: https://blackyukidtd.github.io/tutorial-vpn/#portfolio
 vn-VN:
   <<: *DEFAULT_ES
 vn-VI:
