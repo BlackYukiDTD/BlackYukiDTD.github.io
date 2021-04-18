@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Quantumult X & Shadowrocket"
-        desc: "Configuration installation instructions: [Tutorial](/tutorial-vpn/#portfolio). List apps support: [List App]()"
+        desc: "Configuration installation instructions: [Tutorial](#portfolio). List apps support: [List App]()"
         icon: fas fa-tools #find more at https://fontawesome.com/icons
       - title: "Hack in-Game"
         desc: "Hack in-game purchases in the game. Includes free and paid services. Detailed game list information: [List Game]()"
