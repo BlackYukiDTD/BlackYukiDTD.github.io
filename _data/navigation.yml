@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Payment Guide"
+    - title: "Tutorial & Events"
       section: portfolio
     - title: "Details"
       section: details
@@ -21,7 +21,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Contact"
       section: contact
-    - title: "Tutorial"
+    - title: "Payment Guide"
       url: https://blackyukidtd.github.io/tutorial-vpn/#portfolio
 en-US:
   <<: *DEFAULT_EN
@@ -38,15 +38,15 @@ vn: &DEFAULT_ES
   nav:
     - title: "Dịch Vụ"
       section: dichvu
-    - title: "Thanh Toán"
-      section: thanhtoan
+    - title: "Hướng Dẫn"
+      section: huongdan
     - title: "Chi Tiết"
       section: chitiet
     - title: "Thông Tin"
       section: thongtin
     - title: "Liên Hệ"
       section: lienhe
-    - title: "Hướng Dẫn"
+    - title: "Thanh Toán"
       url: https://blackyukidtd.github.io/tutorial-vpn/#portfolio
 vn-VN:
   <<: *DEFAULT_ES
