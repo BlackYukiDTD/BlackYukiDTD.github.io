@@ -11,6 +11,7 @@ caption:
 ---
 **INTRODUCTION**
 - IAP Server is the intermediary VPN channel between your iPhone and the Apple server. Through Group Server, you can use features such as: blocking updates, blocking ads on safari and on the app, especially activating in-app purchases in the app.
+- Price: 150.000VNĐ/ 1 năm (Tự động cập nhật app premium mới). xxxx/1 year (Auto update new app premium)
 - List App Supported: [Here](/listapp)
 
 _______________________________________________________________________________________________________________
