@@ -25,6 +25,6 @@ ________________________________________________________________________________
 **QUANTUMULT X**
  (*Note: You need your own application*)
 - Appstore: [Here](https://apps.apple.com/us/app/quantumult-x/id1443988620)
-- Configuration Free Trial: [Here](https://ghostbin.co/paste/7u7acp). Copy the url and follow the video instructions (Include [Adguard](https://apps.apple.com/app/apple-store/id1047223162), [Planner5d](https://apps.apple.com/us/app/planner-5d-interior-design/id606173978), [Calm](https://apps.apple.com/us/app/calm/id571800810), [Replika](https://apps.apple.com/us/app/replika-my-ai-friend/id1158555867), [Benkyo](https://apps.apple.com/app/apple-store/id1541592138?mt=8).
+- Configuration Free Trial: [Here](https://ghostbin.co/paste/7u7acp/raw). Copy the url and follow the video instructions (Include [Adguard](https://apps.apple.com/app/apple-store/id1047223162), [Planner5d](https://apps.apple.com/us/app/planner-5d-interior-design/id606173978), [Calm](https://apps.apple.com/us/app/calm/id571800810), [Replika](https://apps.apple.com/us/app/replika-my-ai-friend/id1158555867), [Benkyo](https://apps.apple.com/app/apple-store/id1541592138?mt=8).
 - Detail: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8fYaTOMopNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
