@@ -17,7 +17,7 @@ url    : "https://blackyukidtd.github.io/" # the base hostname & protocol for yo
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : "Black Yuki! Home"
-email      : "duongtiendat1905@icloud.com" #this is also the email contact forms will go to
+email      : duongtiendat1905@icloud.com #this is also the email contact forms will go to
 description: "Photographer, Engineer and Programmer living and working in Japan."
 author     : "Black Yuki"
 #logo:     #optional, defaults to site title
