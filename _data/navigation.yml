@@ -17,10 +17,10 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Introduce"
       section: introduce
-    - title: "About"
+    - title: "About & Contact"
       section: about
-    - title: "Contact"
-      section: contact
+    - title: "Support"
+      section: support
     - title: "Payment Guide"
       url: https://blackyukidtd.github.io/payment/#portfolio
 en-US:
