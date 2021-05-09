@@ -131,7 +131,7 @@ en: &DEFAULT_EN
   contact:
     title: "Support"
     text: "If you need some assistance or support a paid game again. Contact us here. (Nếu bạn cần một số trợ giúp hoặc hỗ trợ lại một trò chơi trả phí. Liên hệ với chúng tôi tại đây)"
-    section: support
+    section: contact
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
