@@ -134,11 +134,11 @@ en: &DEFAULT_EN
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
-    email: "Email or Facebook,... (Contact of you)*"
+    email: "Email*"
     email-validation: "Please enter your email address."
     phone: "Reason (Lý do cần hỗ trợ)"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "Message (ghi rõ Tên Game + Tài khoản và mật khẩu liên kết game)*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
