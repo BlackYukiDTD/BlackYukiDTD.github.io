@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     - title: "About & Contact"
       section: about
     - title: "Support"
-      section: support
+      section: contact
     - title: "Payment Guide"
       url: https://blackyukidtd.github.io/payment/#portfolio
 en-US:
