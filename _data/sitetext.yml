@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "Quality - Reliable - Lifetime"
     section: services
     list:
-      - title: "Quantumult X & Shadowrocket"
+      - title: "Quantumult X & Loon"
         desc: "Configuration installation instructions: [Tutorial](#portfolio). List apps support: [List App](/listapp)"
         icon: fas fa-tools #find more at https://fontawesome.com/icons
       - title: "Hack in-Game"
@@ -45,7 +45,7 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Use VPN Connection"
-        year: "Quantumult X & Shadowrocket"
+        year: "Quantumult X & Loon"
         desc: "IAP Server is the intermediary VPN channel between your iPhone and the Apple server. Through Group Server, you can use features such as: blocking updates, blocking ads on safari and on the app, especially activating in-app purchases in the app."
         image: assets/img/timeline/1.jpg
         alt:
