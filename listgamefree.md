@@ -145,7 +145,7 @@ background: grey
 136. [Vikings II](http://bit.ly/3dTz8iI )
 137. [Stick War: Legacy](http://bit.ly/3uBKsWJ )
 138. [Dive Inside](http://bit.ly/37UtDwv )
-139. [New 50 Rooms Escape]http://bit.ly/3qWnqrn )
+139. [New 50 Rooms Escape](http://bit.ly/3qWnqrn )
 140. [Yotsume God](http://bit.ly/3q7MjPO )
 141. [解謎文字×逃脱遊戲　監獄少年](http://bit.ly/3b1Hjba )
 142. [あの時のコトバを聞きたくて… -青春＊恋愛＊育成ゲーム-](http://bit.ly/37WSjVg )
