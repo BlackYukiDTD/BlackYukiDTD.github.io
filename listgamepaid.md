@@ -9,7 +9,7 @@ background: grey
 
 Tham gia [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) để xem chi tiết tính năng được hack. ***Yêu cầu: Phải chơi game trước khi yêu cầu hỗ trợ*** (Join [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) to see details of hacked features). ***Requirements: Must play the game before requesting support***
 
-1. [Plant & Zombie 2](https://bit.ly/31DjxgP)
+1. [Plant & Zombie 2](http://megaurl.in/Uno0NDgp)
 2. [Soul Knight](https://bit.ly/3aou3eK)
 3. [Dead Cells](https://bit.ly/3pN8XxV)
 4. [Kingdom Rush Vengeance](https://bit.ly/3gSkgjp)
@@ -67,4 +67,28 @@ Tham gia [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) để
 56. [Tiny Gladiators](https://bit.ly/39d2jez)
 57. [Real steel](https://bit.ly/3fkT9NR)
 58. [Bus Simulator : Ultimate](https://bit.ly/2IM05Ie)
-59. 
+59. [King of Defense Premium ](http://megaurl.in/2mYN1)
+60. [Mini War: Pocket Defense](http://megaurl.in/xkpbjI40)
+61. [Otherworld Legends](http://megaurl.in/mo5Xh)
+62. [Hungry Shark World](http://megaurl.in/TvlnJd88)
+63. [Real steel](https://bit.ly/3fkT9NR)
+64. [Real steel](https://bit.ly/3fkT9NR)
+65. [Real steel](https://bit.ly/3fkT9NR)
+66. [Real steel](https://bit.ly/3fkT9NR)
+67. [Real steel](https://bit.ly/3fkT9NR)
+68. [Real steel](https://bit.ly/3fkT9NR)
+69. [Real steel](https://bit.ly/3fkT9NR)
+70. [Real steel](https://bit.ly/3fkT9NR)
+71. [Real steel](https://bit.ly/3fkT9NR)
+72. [Real steel](https://bit.ly/3fkT9NR)
+73. [Real steel](https://bit.ly/3fkT9NR)
+74. [Real steel](https://bit.ly/3fkT9NR)
+75. [Real steel](https://bit.ly/3fkT9NR)
+76. [Real steel](https://bit.ly/3fkT9NR)
+77. [Real steel](https://bit.ly/3fkT9NR)
+78. [Real steel](https://bit.ly/3fkT9NR)
+
+
+
+
+
