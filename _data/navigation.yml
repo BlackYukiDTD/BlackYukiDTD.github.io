@@ -15,8 +15,8 @@ en: &DEFAULT_EN
       section: services
     - title: "Tutorial & Events"
       section: portfolio
-    - title: "Introduce"
-      section: introduce
+    - title: "Policy"
+      section: policy
     - title: "About & Contact"
       section: about
     - title: "Support"
