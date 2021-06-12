@@ -38,35 +38,35 @@ en: &DEFAULT_EN
     closebutton: "Close"
 
   timeline:
-    title: "Introduce"
-    text: "Guide"
-    section: introduce
+    title: "Warranty Policy"
+    text: "Chính sách hậu mãi khi làm data!"
+    section: policy
     # left is the default
     #start_align: "left"
     events:
-      - title: "Use VPN Connection"
-        year: "Quantumult X & Loon"
-        desc: "IAP Server is the intermediary VPN channel between your iPhone and the Apple server. Through Group Server, you can use features such as: blocking updates, blocking ads on safari and on the app, especially activating in-app purchases in the app."
+      - title: "Warranty 1 time free"
+        year: "Bảo hành 1 lần miễn phí"
+        desc: "Trong vòng 1 tháng kể từ lúc làm data, nếu có bất kỳ phát sinh gây nên mất data hack như bản cập nhật mới thay đổi cơ chế của game hay bị ban data vì bị phát hiện hack. Bạn có quyền lợi được hỗ trợ 1 lần miễn phí."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Paid Item"
-        year: "Hack in-Game"
-        desc: "Supported games are saved to Apple ID, Gmail, Facebook, Gamecenter accounts."
+      - title: "Discount offer for next time"
+        year: "Ưu đãi giảm giá cho lần tiếp theo"
+        desc: "Trong vòng 6 tháng kể từ thời điểm làm data xong, bạn có 1 lần giảm giá 50% cho game mà bạn vừa làm. Có nghĩa là: nếu trong vòng 6 tháng, game có bản cập nhật mới, bạn chỉ mất nửa giá tiền để cập nhật thêm data hack. Phiếu giảm giá này không hỗ trợ người tự làm mất data, chỉ cập nhật dữ liệu mới"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Free Item"
-        year: "Hack in-Game"
-        desc: "Support games installed with iMazing files."
+      - title: "Cases of denial of support"
+        year: "Những trường hợp bị từ chối hỗ trợ"
+        desc: "Chúng tôi từ chối hỗ trợ với các trường hợp sau: Không làm đúng theo hướng dẫn của chúng tôi, Tự ý chia sẻ tài khoản data hack cho người khác. Gây nên mất data hay bị ban tài khoản."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Only Vietnam Supported"
-        year: "Thuê tài khoản Apple ID"
-        desc: "Tài khoản chứa các game/app trả phí như Dead Cells, Minecraft, Shadowrocket, Pascal's Wanger, Moonlighter, ..."
+      - title: "All other cases"
+        year: "Mọi trường hợp khác"
+        desc: "Vui lòng liên hệ cho tôi tại mục Contact hay gửi mail tại Support. Hoặc tham gia Group Facebook để biết thêm chi tiết!"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Thank <br> for you <br> support!"
+    end: "Thank <br> you for <br> for using the service!"
 
   about:
     title: "About"
