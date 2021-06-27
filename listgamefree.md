@@ -4,7 +4,7 @@ title: List Game Free
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">List Game Free Supported (Update 27/06/2021</h2>
+	<h2 class="section-heading text-uppercase">List Game Free Supported (Update 27/06/2021)</h2>
 </div>
 
 Tham gia [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) để xem chi tiết tính năng được hack. ***Yêu cầu: Phải chơi game trước khi yêu cầu hỗ trợ*** (Join [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) to see details of hacked features). ***Requirements: Must play the game before requesting support***
