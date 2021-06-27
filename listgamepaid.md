@@ -9,8 +9,8 @@ background: grey
 
 Tham gia [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) để xem chi tiết tính năng được hack. ***Yêu cầu: Phải chơi game trước khi yêu cầu hỗ trợ*** (Join [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) to see details of hacked features). ***Requirements: Must play the game before requesting support***
 
-1. [Plant & Zombie 2](http://megaurl.in/Uno0NDgp) -[Mirror](https://bit.ly/31DjxgP)-
-2. [Soul Knight](http://megaurl.in/EqEqhP) ||[Mirror](https://bit.ly/3aou3eK)||
+1. [Plant & Zombie 2](http://megaurl.in/Uno0NDgp) ->[Mirror](https://bit.ly/31DjxgP)<-
+2. [Soul Knight](http://megaurl.in/EqEqhP) ->[Mirror](https://bit.ly/3aou3eK)<-
 3. [Dead Cells](http://megaurl.in/srl3)
 4. [Kingdom Rush Vengeance](http://megaurl.in/g64vSq)
 5. [Muse Dash](http://megaurl.in/bhYOA)
