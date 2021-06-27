@@ -11,15 +11,15 @@ Tham gia [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) để
 
 1. [Plant & Zombie 2](http://megaurl.in/Uno0NDgp) ->[Mirror](https://bit.ly/31DjxgP)<-
 2. [Soul Knight](http://megaurl.in/EqEqhP) ->[Mirror](https://bit.ly/3aou3eK)<-
-3. [Dead Cells](http://megaurl.in/srl3)
-4. [Kingdom Rush Vengeance](http://megaurl.in/g64vSq)
-5. [Muse Dash](http://megaurl.in/bhYOA)
-6. [Subway Suft](http://megaurl.in/ts9lL)
-7. [The Greedy Cave](https://bit.ly/3ghk6Rx)
-8. [Stickman Legends Premium](https://bit.ly/2QQ8aMb)
-9. [Homescapes](https://bit.ly/3jAsCgy)
-10. [Empire TD Premium](https://bit.ly/3ghveOq)
-11. [CAT QUEST](https://bit.ly/35cQ1AE)
+3. [Dead Cells](http://megaurl.in/srl3) ->[Mirror](https://bit.ly/3pN8XxV)<-
+4. [Kingdom Rush Vengeance](http://megaurl.in/g64vSq) ->[Mirror](https://bit.ly/3gSkgjp)<-
+5. [Muse Dash](http://megaurl.in/bhYOA) ->[Mirror](https://bit.ly/3mJm8y3)<-
+6. [Subway Suft](http://megaurl.in/ts9lL) ->[Mirror](https://bit.ly/3giNdnw)<-
+7. [The Greedy Cave](https://bit.ly/3ghk6Rx) ->[Mirror](https://bit.ly/3ghk6Rx)<-
+8. [Stickman Legends Premium](https://bit.ly/2QQ8aMb) ->[Mirror](https://bit.ly/2QQ8aMb)<-
+9. [Homescapes](https://bit.ly/3jAsCgy) ->[Mirror](https://bit.ly/3jAsCgy)<-
+10. [Empire TD Premium](https://bit.ly/3ghveOq) ->[Mirror](https://bit.ly/3ghveOq)<-
+11. [CAT QUEST](https://bit.ly/35cQ1AE) ->[Mirror](https://bit.ly/35cQ1AE)<-
 12. [Yu-Gi-Oh! Duel Generation](https://bit.ly/3bnZeHg)
 13. [Dream League Soccer 2019](https://bit.ly/3clvnzO)
 14. [Bistro Heroes](https://bit.ly/2S7Rb8T)
