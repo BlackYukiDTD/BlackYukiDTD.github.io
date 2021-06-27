@@ -96,6 +96,8 @@ Tham gia [Facebook Group](https://www.facebook.com/groups/ungdunggameiOS/) để
 85. [Big Farm: Home & Garde‪n](http://megaurl.in/iPHaFsX)
 86. [World War Polygon- WW2 shoote‪r‬](http://megaurl.in/PrV991p)
 87. [Dungeon Shop Tycoo‪n](http://megaurl.in/UqvgB5LD)
+88. [Mini War: Pocket Defense](http://megaurl.in/KpX7) ->[Mirror](https://www.facebook.com/groups/ungdunggameiOS/posts/484066139519205/)<-
+89. [King of Defense Premium](http://megaurl.in/odGmQN8g) ->[Mirror](https://www.facebook.com/groups/ungdunggameiOS/posts/484067912852361/)<-
 
 
 
