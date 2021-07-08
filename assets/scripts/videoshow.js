@@ -5,7 +5,7 @@ var cons1= "imeiVerify";
 if(url.indexOf(cons) != -1)
 {
 obj= {
-  "product_id": "vip_privilege_monthly",
+  "product_id": "vip_privilege_yearly",
   "status": "0",
   "isBlacklist": "0",
   "transaction_id": "310000409847203",
