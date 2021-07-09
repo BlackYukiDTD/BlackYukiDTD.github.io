@@ -1,10 +1,6 @@
 var obj = JSON.parse($response.body);
 
-obj = {
-  "isPremium": true,
-  "isAppleSubscription": true,
-  "isGooglePlaySubscription": true
-};
+obj.isPremium= true;
 
 
 $done({body: JSON.stringify(obj)});
