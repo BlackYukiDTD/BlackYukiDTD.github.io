@@ -2,4 +2,4 @@
 hostname = raw.githubusercontent.com, gist.githubusercontent.com
 
 [Script]
-http-request ^https?:\/\/(raw|gist)\.githubusercontent.com, requires-body=0, script-path=https://blackyukidtd.github.io/assets/scripts/github.js, tag=Github Private
+http-request ^https?:\/\/(raw|gist)\.githubusercontent\.com\/, requires-body=0, script-path=https://blackyukidtd.github.io/assets/scripts/github.js, tag=Github Private
